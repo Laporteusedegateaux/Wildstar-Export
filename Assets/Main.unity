@@ -472,7 +472,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 963194225}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cdf3de465c99cfa4ba4268fa87707a0b, type: 3}
+  m_Script: {fileID: 11500000, guid: f2c0c9c373b0c7f4cbb19341ee243e61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cameraMoveSpeed: 0.5
@@ -539,9 +539,9 @@ MonoBehaviour:
   m_Script: {fileID: 19102, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PanelSettings: {fileID: 11400000, guid: 2b7b1fcaf68d1d243a86352c83c0ba1c, type: 2}
+  m_PanelSettings: {fileID: 11400000, guid: d1931f0c1512ba54b8baef1e550ae706, type: 2}
   m_ParentUI: {fileID: 0}
-  sourceAsset: {fileID: 9197481963319205126, guid: 623f97b7ad8195c44b692f8b9ed74e94, type: 3}
+  sourceAsset: {fileID: 9197481963319205126, guid: 96440ea6d9b49ae4289e166c353dd144, type: 3}
   m_SortingOrder: 0
 --- !u!4 &1165482264
 Transform:
@@ -567,7 +567,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1165482262}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a4ece5cb0878f504096fca49524368b4, type: 3}
+  m_Script: {fileID: 11500000, guid: 5a60e2197395a2a45b77541dc4ac759e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1614739741
